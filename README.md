@@ -1,7 +1,7 @@
 # MiniKeypad
 ![DSC09628](https://user-images.githubusercontent.com/62051355/126891991-e1b9faa9-b3e6-46a4-8421-40193d7aeec9.JPG)
 
-MiniKeypadは、ZoomやTeamsなどの操作を、専用キーで操作するためのアダプターです。
+MiniKeypadを使えば、ZoomやTeamsなどの操作を専用キーで操作することが出来ます。
 REVIVE USBをベースに作られています。
 
 REVIVE USB<BR>
